@@ -39,3 +39,8 @@
 |Arabic recipes||Grape leaves||7 JD||
 |Arabic recipes||Chicken stuffed||6 JD||
 |Arabic recipes||Grilled meat||12 JD||
+
+
+wireframe
+![Malik Restaurant](./img2.jpg)
+![Malik Restaurant](./img1.jpg)
